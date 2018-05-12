@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43126'
     url: http://www.gutenberg.org/2009/agents/43126
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45154#The-Library-of-Work-and-Play--Outdoor-Work
 gutenberg_issued: '2014-03-17'
 gutenberg_type: Text
 identifiers:
